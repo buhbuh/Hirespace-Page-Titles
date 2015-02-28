@@ -181,6 +181,9 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+
 *.exe
 *.received.txt
 *.bak
+packages/
