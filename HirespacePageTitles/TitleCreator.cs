@@ -23,7 +23,7 @@ namespace HirespacePageTitles
         /// </summary>
         public string GenerateTitle(Page page)
         {
-            if(page == null)
+            if (page == null)
             {
                 throw new ArgumentNullException("page");
             }
@@ -48,6 +48,8 @@ namespace HirespacePageTitles
         /// </summary>
         private IEnumerable<string> GenerateTitleCandidates(Page page)
         {
+            int randomOffset = (page.Space + page.Title + page.Use).Length;
+
             while (true)
             {
                 string title = string.Format(
@@ -57,11 +59,9 @@ namespace HirespacePageTitles
                      page.Use
                 );
 
-                int hashCode = title.GetHashCode();
-
                 for (int i = 0; i < Phrases.Length; i++)
                 {
-                    string phrase = Phrases[Math.Abs(i + hashCode) % Phrases.Length];
+                    string phrase = Phrases[(i + randomOffset) % Phrases.Length];
                     yield return title + " | " + phrase;
                 }
 

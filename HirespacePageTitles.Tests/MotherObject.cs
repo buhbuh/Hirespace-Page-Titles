@@ -19,10 +19,10 @@ namespace HirespacePageTitles.Tests
         private static string PageData = @"
 
 Venue/Space/Use 1
-Venue/Space/Use 2
-Venue/Space/Use 3
-Venue/Space/Use 4
-Venue/Space/Use 5
+Venue/Space/Use 22
+Venue/Space/Use 333
+Venue/Space/Use 4444
+Venue/Space/Use 55555
 
 Cally Bemerton Community Hub/Cally Community Football Pitch/Other
 Cally Bemerton Community Hub/Cally Community Football Pitch/Film and Photo

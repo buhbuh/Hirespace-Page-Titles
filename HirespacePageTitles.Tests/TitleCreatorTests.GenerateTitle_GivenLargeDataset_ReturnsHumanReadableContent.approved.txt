@@ -1,18 +1,18 @@
 ﻿
 Venue, Space, Use 1
-Venue | Space | Use 1 | Enquire Now
+Venue | Space | Use 1 | Hire Space
 
-Venue, Space, Use 2
-Venue | Space | Use 2 | Enquire Online
+Venue, Space, Use 22
+Venue | Space | Use 22 | See Pictures
 
-Venue, Space, Use 3
-Venue | Space | Use 3 | See Pictures
+Venue, Space, Use 333
+Venue | Space | Use 333 | Enquire Online
 
-Venue, Space, Use 4
-Venue | Space | Use 4 | See Pictures
+Venue, Space, Use 4444
+Venue | Space | Use 4444 | See More
 
-Venue, Space, Use 5
-Venue | Space | Use 5 | Hire Space
+Venue, Space, Use 55555
+Venue | Space | Use 55555 | Enquire Now
 
 Cally Bemerton Community Hub, Cally Community Football Pitch, Other
 Cally Bemerton Community | Cally Community | Other
@@ -30,7 +30,7 @@ The Redmond Community Centre, Kitchen, Other
 The Redmond Community Centre | Kitchen | Other
 
 The Redmond Community Centre, Kitchen, Other
-The Redmond Community Centre | Kitchen | Other
+The Redmond Community | Kitchen | Other | See More
 
 Radisson Blu Edwardian Grafton, Warren Suite, Business
 Radisson Blu Edwardian | Warren Suite | Business
@@ -246,7 +246,7 @@ Royal Over Seas League ROSL, The Garden, Events
 Royal Over Seas League ROSL | The Garden | Events
 
 Royal Over Seas League ROSL, The Garden, Events
-Royal Over Seas League ROSL | The Garden | Events
+Royal Over Seas League | The Garden | Events | See More
 
 The Cheshire Cookery School, The Cookery School, Events
 The Cheshire Cookery | The Cookery School | Events
@@ -291,7 +291,7 @@ The Redmond Community Centre, Meeting Room 1, Other
 The Redmond Community Centre | Meeting Room 1 | Other
 
 The Redmond Community Centre, Meeting Room 1, Other
-The Redmond Community Centre | Meeting Room 1 | Other
+The Redmond Community | Meeting Room 1 | Other
 
 Rothbury Hall Stream Arts, Rothbury Hall, Commercial
 Rothbury Hall Stream Arts | Rothbury Hall | Commercial
@@ -300,7 +300,7 @@ Rothbury Hall Stream Arts, Rothbury Hall, Non Commercial
 Rothbury Hall Stream | Rothbury Hall | Non Commercial
 
 Top, London, Wish List St Mungos
-Top | London | Wish List St Mungos | Enquire Online
+Top | London | Wish List St Mungos | Hire Space
 
 Top, London, wish list st mungos
 Top | London | wish list st mungos | See Pictures
@@ -369,7 +369,7 @@ Herbert Berger at Innholders Hall, New Court Room, Delegate Rate
 Herbert Berger at | New Court Room | Delegate Rate
 
 Lutyens Restaurant, St John the EvangelistGreat Dixter, Events
-Lutyens Restaurant | St John the | Events | See More
+Lutyens Restaurant | St John the | Events | Hire Space
 
 Lutyens Restaurant, St John the EvangelistGreat Dixter, Business
 Lutyens Restaurant | St John the | Business | See More
@@ -387,7 +387,7 @@ Top, London, Affordable Wedding Venues London
 Top | London | Affordable Wedding Venues London
 
 Top, london, Affordable Wedding Venues London
-Top | london | Affordable Wedding Venues London
+Top | london | Affordable Wedding Venues | See More
 
 Imperial War Museum North IWM North, Exclusive Hire, Business
 Imperial War Museum North | Exclusive Hire | Business
@@ -489,16 +489,16 @@ Brent Cross Shopping Centre, Promotional Space Mall 2, Promotions
 Brent Cross Shopping | Promotional Space | Promotions
 
 Brent Cross Shopping Centre, Promotional Space Mall 5 B, Promotions
-Brent Cross Shopping | Promotional Space | Promotions
+Brent Cross | Promotional Space | Promotions | See More
 
 Brent Cross Shopping Centre, Promotional Space East Mall 2, Promotions
-Brent Cross Shopping | Promotional Space | Promotions
+Brent Cross | Promotional Space | Promotions
 
 Brent Cross Shopping Centre, Promotional Space West Mall 2, Promotions
-Brent Cross Shopping | Promotional Space | Promotions
+Brent Cross | Promotional | Promotions | Enquire Now
 
 Brent Cross Shopping Centre, Promotional Space Centre Court, Promotions
-Brent Cross Shopping | Promotional Space | Promotions
+Brent Cross | Promotional | Promotions | Hire Space
 
 Curdridge Reading Room Recreational Ground, Main Hall, Weddings
 Curdridge Reading Room | Main Hall | Weddings
@@ -546,7 +546,7 @@ The Redmond Community Centre, ICT Suite, Other
 The Redmond Community Centre | ICT Suite | Other
 
 The Redmond Community Centre, ICT Suite, Other
-The Redmond Community Centre | ICT Suite | Other
+The Redmond Community | ICT Suite | Other | Enquire Now
 
 British Museum, The Hugh Catherine Stevenson Lecture Theatre, Business
 British Museum | The Hugh Catherine | Business
@@ -933,7 +933,7 @@ Imperial College Sherfield Building, Queens Tower Rooms, Events
 Imperial College | Queens Tower Rooms | Events
 
 Imperial College Sherfield Building, Queens Tower Rooms, Events
-Imperial College | Queens Tower Rooms | Events
+Imperial College | Queens Tower | Events | Enquire Now
 
 Doubletree by Hilton London Westminster, 1st Floor DoubleTree Westminster, Business
 Doubletree by Hilton | 1st Floor DoubleTree | Business
@@ -957,7 +957,7 @@ The Redmond Community Centre, Main Hall, Other
 The Redmond Community Centre | Main Hall | Other
 
 The Redmond Community Centre, Main Hall, Other
-The Redmond Community Centre | Main Hall | Other
+The Redmond Community | Main Hall | Other | Enquire Now
 
 Royal Over Seas League ROSL, The Princess Alexandra Hall, Events
 Royal Over Seas League | The Princess | Events
@@ -1161,7 +1161,7 @@ DoubleTree by Hilton Manchester Piccadilly, Skylounge, Dining
 DoubleTree by Hilton Manchester | Skylounge | Dining
 
 Top, London, Venue Finding Agency
-Top | London | Venue Finding Agency | See More
+Top | London | Venue Finding Agency | See Pictures
 
 Top, london, Venue Finding Agency
 Top | london | Venue Finding Agency | Enquire Online
@@ -1200,7 +1200,7 @@ The Safehouses Maverick Project, Safehouse 1, Pop up
 The Safehouses Maverick Project | Safehouse 1 | Pop up
 
 Top, London, Promotional Spaces London
-Top | London | Promotional Spaces London | See More
+Top | London | Promotional Spaces London | See Pictures
 
 Top, london, Promotional Spaces London
 Top | london | Promotional Spaces London | See More
@@ -1281,7 +1281,7 @@ Top, London, Wish List Tanwens Birthday
 Top | London | Wish List Tanwens Birthday | See More
 
 Top, London, wish list tanwens birthday
-Top | London | wish list tanwens birthday | See More
+Top | London | wish list tanwens birthday | Enquire Now
 
 Kent House Knightsbridge, The North and South Sanctuary, Weddings
 Kent House | The North and South | Weddings | See More

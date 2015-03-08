@@ -89,15 +89,16 @@ namespace HirespacePageTitles.Tests
         [Test]
         public void GenerateTitle_GivenLargeDataset_ReturnsHumanReadableContent()
         {
-            IEnumerable<Page> pages = MotherObject.Pages();
+            TitlesRepository.Pages = MotherObject.Pages().ToList();
             StringBuilder result = new StringBuilder();
 
-            foreach (Page page in pages)
+            foreach (Page page in TitlesRepository.Pages)
             {
                 result.AppendLine();
                 result.AppendFormat("{0}, {1}, {2}", page.Venue, page.Space, page.Use);
                 result.AppendLine();
-                result.AppendLine(Sut.GenerateTitle(page));
+                page.Title = Sut.GenerateTitle(page);
+                result.AppendLine(page.Title);
             }
 
             Approvals.Verify(result.ToString());
